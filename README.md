@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/evilangelmma1995/ContosonAir/_apis/build/status/evilAngel95.ContosoAir?branchName=master)](https://dev.azure.com/evilangelmma1995/ContosonAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
